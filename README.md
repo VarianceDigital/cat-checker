@@ -1,10 +1,10 @@
-# Catchecker for CarLoader APP and HTML seite
+# Cat Checker for _CarLoader_ APP and HTML seite
 
 ## Overview
 
-In this repo you'll find the source code for the catchecker service module.
+In this repo you'll find the source code for the Cat Checker service module.
 
-The catchecker service site has only one endpoint:  
+The Cat Checker service site has only two endpoint:  
 - /checkcatimages
 - /checkcatimages-api
 
