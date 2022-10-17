@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block metatags %}
+<title>Cat Checker</title>
+<meta name="description" content="CatChecker.">
+{% endblock %}
+
+{% block contents %}
+<div class="container">
+    <h1 style="margin-top:37px;">Home page</h1>
+    <p>Learn more <a href="{{url_for('bl_home.about')}}">about</a> this site.</p>
+</div>
+{% endblock %}

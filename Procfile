@@ -1,0 +1,1 @@
+web: gunicorn "catchecker:create_app()"

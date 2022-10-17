@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block metatags %}
+<title>About | Cat Checker</title>
+<meta name="description" content="Explain cat checker.">
+{% endblock %}
+
+{% block contents %}
+<div class="container">
+    <div>
+        <ol class="breadcrumb small">
+            <li class="breadcrumb-item"><a href="{{url_for('bl_home.index')}}">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">About</li>
+        </ol>
+    </div>
+
+    <h1>About this site</h1>
+    <p class="lead">
+        This site is the cat-checker service module, used in the <i>CatLoader</i> project.
+    </p>   
+    <p>The catchecker service site has only two endpoints:  /checkcatimages and /checkcatimages-api.</p>
+    <p>Get the code on GitHub <a href="https://github.com/VarianceDigital/minimal" target="_blank">here</a></p>
+    <p>Read full info <a href="https://github.com/VarianceDigital/minimal#readme" target="_blank">here</a></p>
+    
+</div>
+{% endblock %}
