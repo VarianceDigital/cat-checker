@@ -1,4 +1,4 @@
-# Cat Checker for _CarLoader_ APP and HTML seite
+# Cat Checker for _CatLoader_ APP and HTML seite
 
 ## Overview
 
