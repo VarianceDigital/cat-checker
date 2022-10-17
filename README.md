@@ -8,4 +8,4 @@ The Cat Checker service site has only two endpoint:
 - /checkcatimages
 - /checkcatimages-api
 
-Please refer to this article to find out more.
+Please refer to [this](https://medium.com/variance-digital/ai-for-cats-vs-the-rest-of-the-world-cb78e40ccf83) article to find out more.
